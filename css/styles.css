@@ -1,0 +1,16 @@
+body {
+	background-color: orange;
+}
+.wrapper{
+	margin: 30px auto auto 30px;
+}
+.par{
+	margin: 30px auto auto auto;
+}
+.title {
+	color: white;
+	font-size: 30px;
+}
+.img {
+	margin-top: 30px;
+}
